@@ -1,0 +1,7 @@
+﻿  test.cpp
+c:\users\admin\desktop\333\test\test\test.cpp(31): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+LINK : fatal error LNK1104: 无法打开文件“C:\Users\Admin\Desktop\333\test\x64\Release\test.exe”
